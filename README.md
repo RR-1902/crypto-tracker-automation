@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/RR-1902/crypto-tracker-automation)
+
+
+
 # crypto-tracker-automation
 Automated cryptocurrency price tracker using Python and Selenium to scrape real-time market data from CoinMarketCap and export it to CSV.
 # Cryptocurrency Price Tracker using Selenium
